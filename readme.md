@@ -9,14 +9,8 @@ Welcome to the **URL Shortener** project! 🚀 This is a simple yet powerful app
    ```bash
    git clone https://github.com/abdullaabdullazade/url-shortener.git
    ```
-2. Add your changes to the repository:
-   ```bash
-   git add .
-   git commit -m "Add README file"
-   git push origin main
-   ```
 
----
+
 
 ## 📂 Project Structure
 
