@@ -1,23 +1,28 @@
-# 🌐 URL Shortener Project
-
-Welcome to the **URL Shortener** project! 🚀 This is a simple yet powerful application that lets you shorten URLs effortlessly.
+Mətndə bəzi təkrarlamalar və kiçik qüsurlar var. İyileştirilmiş versiyanı təqdim edirəm:
 
 ---
 
-## 📤 Push to GitHub
-1. Clone the repository from GitHub:
-   ```bash
-   git clone https://github.com/abdullaabdullazade/url-shortener.git
-   ```
+# 🌐 URL Shortener Project
 
+Welcome to the **URL Shortener** project! 🚀 This simple yet powerful application allows you to shorten URLs effortlessly.
 
+---
+
+## 📸 Project Preview
+
+![Project Preview](./images/1.png)  
+![Preview 2](./images/2.png)  
+![Preview 3](./images/3.png)  
+![Preview 4](./images/4.png)
+
+---
 
 ## 📂 Project Structure
 
-The project consists of two main folders:
+The project consists of two main folders:  
 
-1. **backend** - The server-side code.
-2. **client** - The frontend user interface.
+1. **backend** - Server-side code using Express.js and SQLite3.  
+2. **client** - Frontend built with React.js.
 
 ---
 
@@ -33,22 +38,20 @@ The project consists of two main folders:
 ---
 
 ## ⚙️ Features
-- Input any URL.
-- Get a shortened version of the URL instantly.
+
+- Input any URL and get a shortened version instantly.  
+- Simple, clean, and responsive user interface.
 
 ---
 
 ## 🚀 How to Run the Project
 
+### 1. Clone the Repository
+```bash
+git clone https://github.com/abdullaabdullazade/url-shortener.git
+```
 
-## 📤 Push to GitHub
-1. Clone the repository from GitHub:
-   ```bash
-   git clone https://github.com/abdullaabdullazade/url-shortener.git
-   ```
-
-
-### Backend Setup
+### 2. Backend Setup
 1. Navigate to the `backend` directory:
    ```bash
    cd backend
@@ -62,7 +65,7 @@ The project consists of two main folders:
    npm start
    ```
 
-### Frontend Setup
+### 3. Frontend Setup
 1. Navigate to the `client` directory:
    ```bash
    cd client
@@ -79,26 +82,28 @@ The project consists of two main folders:
 ---
 
 ## 📸 Demo
-1. Open the frontend in your browser.
-2. Enter a URL in the input field.
-3. Click the **Shorten** button.
-4. Get your shortened URL! 🎉
+1. Open the frontend in your browser at `http://localhost:3000`.  
+2. Enter a URL in the input field.  
+3. Click the **Shorten** button.  
+4. Receive your shortened URL! 🎉
 
 ---
 
 ## 📝 Notes
-- Ensure that the backend server is running before using the frontend.
-- SQLite3 database will be initialized automatically when the backend starts.
+
+- Ensure the backend server is running before accessing the frontend.  
+- The SQLite3 database will be automatically initialized when the backend starts.
 
 ---
 
 ## 🤝 Contributions
-Feel free to fork the repository and contribute! Pull requests are welcome.
+
+Feel free to fork the repository and contribute! Pull requests are always welcome.
 
 ---
 
-
-
-
 Happy Coding! 💻
 
+---
+
+Bu versiyada təkrarlamalar aradan qaldırılıb və daha aydın bir quruluş yaradılıb. Daha çox dəyişiklik lazımdırsa, bildirin! 😊
