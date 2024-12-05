@@ -1,7 +1,3 @@
-Mətndə bəzi təkrarlamalar və kiçik qüsurlar var. İyileştirilmiş versiyanı təqdim edirəm:
-
----
-
 # 🌐 URL Shortener Project
 
 Welcome to the **URL Shortener** project! 🚀 This simple yet powerful application allows you to shorten URLs effortlessly.
@@ -106,4 +102,3 @@ Happy Coding! 💻
 
 ---
 
-Bu versiyada təkrarlamalar aradan qaldırılıb və daha aydın bir quruluş yaradılıb. Daha çox dəyişiklik lazımdırsa, bildirin! 😊
