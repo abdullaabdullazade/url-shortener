@@ -78,7 +78,7 @@ git clone https://github.com/abdullaabdullazade/url-shortener.git
 ---
 
 ## 📸 Demo
-1. Open the frontend in your browser at `http://localhost:3000`.  
+1. Open the frontend in your browser at `http://localhost:5173`.  
 2. Enter a URL in the input field.  
 3. Click the **Shorten** button.  
 4. Receive your shortened URL! 🎉
